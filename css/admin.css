@@ -1,0 +1,51 @@
+@import "../bootstrap/css/bootstrap.css";
+#menu, #div_ul {
+	border-radius: 15px;
+	background-color: #0000FF;
+}
+body {
+	background-color: #d3d3d3;
+	font-family: Verdana, sans-serif;
+}
+#mod {
+	width: 1000px;
+	margin-left: -35%;
+}
+#libtn {
+	width: 100%;
+}
+.badge {
+	font-family: Verdana, sans-serif;
+	font-weight: 1000;
+	font-variant: small-caps;
+	font-size: 23px;
+}
+#modal-table td {
+	text-align: center;
+	width: 50%;
+}
+#select {
+	width: 100%;
+	font-family: Verdana, sans-serif;
+}
+#tabs {
+	font-size:0.8em;
+}
+#td1 {
+	width: 75%;
+}
+.login-box {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 400px;
+	padding: 40px;
+	transform: translate(-50%, -50%);
+	background-color: #d3d3d3;
+	box-sizing: border-box;
+	border-radius: 10px;
+	border: 2px solid #000;
+}
+.form-control {
+	border: 2px solid #000;
+}

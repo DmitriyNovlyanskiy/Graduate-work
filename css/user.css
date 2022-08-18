@@ -1,0 +1,35 @@
+@import "../bootstrap/css/bootstrap.css";
+#menu, #div_ul {
+	border-radius: 15px;
+	background-color: #0000FF;
+}
+body {
+	background-color: #d3d3d3;
+}
+#mod {
+	width: 1000px;
+	margin-left: -35%;
+}
+#libtn {
+	width: 100%;
+}
+.badge {
+	font-family: Snell Roundhand;
+	font-weight: 1000;
+	font-variant: small-caps;
+	font-size: 23px;
+}
+#modal-table td {
+	text-align: center;
+	width: 50%;
+}
+#select {
+	width: 100%;
+	font-family: Times New Roman;
+}
+#tabs {
+	font-size:0.8em;
+}
+#td1 {
+	width: 75%;
+}

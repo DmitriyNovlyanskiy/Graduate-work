@@ -1,0 +1,17 @@
+@import "../bootstrap/css/bootstrap.css";
+body {
+	background-color: #d3d3d3;
+}
+#menu, #div_ul {
+	border-radius: 15px;
+	background-color: #0000FF;
+}
+.text {
+	font-size: 80px;
+	text-align: center;
+	color: #0013ba;
+	font-family: Verdana, sans-serif;
+}
+.but {
+	margin-left: 90%;
+}

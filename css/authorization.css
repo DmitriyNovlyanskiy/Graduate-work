@@ -1,0 +1,23 @@
+@import "../bootstrap/css/bootstrap.css";
+body {
+	background-color: #d3d3d3;
+	font-family: Verdana, sans-serif;
+}
+.login-box {
+	position: absolute;
+	top: 35%;
+	left: 50%;
+	width: 400px;
+	padding: 40px;
+	transform: translate(-50%, -50%);
+	background-color: #d3d3d3;
+	box-sizing: border-box;
+	border-radius: 10px;
+	border: 2px solid #000;
+}
+h1, lable {
+	font-family: Verdana, sans-serif;
+}
+.form-control {
+	border: 2px solid #000;
+}
